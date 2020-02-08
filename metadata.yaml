@@ -1,5 +1,5 @@
 _repo: Capitaines-Courageux-Une-histoire-du-banc-de-Terre-Neuve_61218
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Captains Courageous. French
 contributor:
   illustrator:
@@ -25,6 +25,9 @@ contributor:
     birthdate: 1859
     gutenberg_agent_id: '51314'
     url: http://www.gutenberg.org/2009/agents/51314
+covers:
+- cover_type: archival
+  image_path: 61218-h/images/cover.jpg
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -37,6 +40,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61218#Capitaines-Courageux-Une-histoire-du-banc-de-Terre-Neuve
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Jeunesse
