@@ -1,0 +1,65 @@
+_repo: Capitaines-Courageux-Une-histoire-du-banc-de-Terre-Neuve_61218
+_version: 0.0.1
+alternative_title: Captains Courageous. French
+contributor:
+  illustrator:
+    agent_name: Gorguet, Auguste-François-Marie
+    aliases:
+    - Gorguet, Auguste-Francois-Marie
+    - Gorguet, Auguste François-Marie
+    - Gorguet, A. F. (Auguste-François)
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '51313'
+    url: http://www.gutenberg.org/2009/agents/51313
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Fran%C3%A7ois-Marie_Gorguet
+  translators:
+  - agent_name: Fabulet, Louis
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '47751'
+    url: http://www.gutenberg.org/2009/agents/47751
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Fabulet
+  - agent_name: Fountaine-Walker, Ch. (Charles)
+    alias: Fountaine-Walker, Charles
+    birthdate: 1859
+    gutenberg_agent_id: '51314'
+    url: http://www.gutenberg.org/2009/agents/51314
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Jeunesse
+- FR Littérature
+gutenberg_issued: '2020-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61218'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Saltwater fishing -- Fiction'
+- !lcsh 'Fishing boats -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Fishers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Grand Banks of Newfoundland -- Fiction'
+- GITenberg
+title: 'Capitaines Courageux: Une histoire du banc de Terre-Neuve'
+url: http://www.gutenberg.org/ebooks/61218
